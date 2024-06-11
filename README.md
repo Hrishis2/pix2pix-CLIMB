@@ -1,5 +1,5 @@
 
-<img src='imgs/horse2zebra.gif' align="right" width=384>
+
 
 <br><br><br>
 
@@ -32,7 +32,6 @@ You may find useful information in [training/test tips](docs/tips.md) and [frequ
 
 **[EdgesCats Demo](https://affinelayer.com/pixsrv/) | [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) | by [Christopher Hesse](https://twitter.com/christophrhesse)**
 
-<img src='imgs/edges2cats.jpg' width="400px"/>
 
 If you use this code for your research, please cite:
 
